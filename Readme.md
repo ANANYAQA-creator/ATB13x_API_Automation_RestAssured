@@ -40,6 +40,8 @@ Allure Reports	Rich Test Reporting
 Apache POI	Data-Driven Testing (Excel)
 Maven	Dependency & Build Tool
 IntelliJ IDEA	IDE
+
+
 📂 Project Structure
 ATB13x-API-Automation/
 │
