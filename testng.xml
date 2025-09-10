@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Black Panther/Desktop/Pramod Testing/Automation_Projects/ATB13x_API_Automation">
+        <classes>
+            <class name="ex_03_RA_TestNG_Allure_Reports.lab06RATestNGFile">
+                <methods>
+                    <include name="test_tc1_pincode_valid"/>
+                    <include name="test_tc2_pincode_invalid"/>
+                    <include name="test_tc3_pincode_invalid"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
