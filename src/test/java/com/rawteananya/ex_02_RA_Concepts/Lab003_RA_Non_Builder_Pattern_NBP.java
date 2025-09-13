@@ -1,4 +1,4 @@
-package ex_02_RA_Concepts;
+package com.rawteananya.ex_02_RA_Concepts;
 
 public class Lab003_RA_Non_Builder_Pattern_NBP {
 

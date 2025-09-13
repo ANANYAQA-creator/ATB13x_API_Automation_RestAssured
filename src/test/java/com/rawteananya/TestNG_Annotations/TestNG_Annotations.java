@@ -1,4 +1,4 @@
-package TestNG_Annotations;
+package com.rawteananya.TestNG_Annotations;
 
 
 import org.openqa.selenium.WebDriver;

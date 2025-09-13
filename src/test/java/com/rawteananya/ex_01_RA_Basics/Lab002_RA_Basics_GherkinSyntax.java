@@ -1,4 +1,4 @@
-package ex_01_RA_Basics;
+package com.rawteananya.ex_01_RA_Basics;
 
 import io.restassured.RestAssured;
 

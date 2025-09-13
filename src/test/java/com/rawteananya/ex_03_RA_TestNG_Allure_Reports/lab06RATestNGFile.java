@@ -1,4 +1,4 @@
-package ex_03_RA_TestNG_Allure_Reports;
+package com.rawteananya.ex_03_RA_TestNG_Allure_Reports;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
