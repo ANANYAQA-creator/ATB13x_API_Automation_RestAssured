@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel-Methods" parallel="methods" thread-count="2">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Black Panther/Desktop/Pramod Testing/Automation_Projects/ATB13x_API_Automation">
+        <classes>
+            <class name="com.rawteananya.ex_05_RA_TestNG_Eaxamples.ParallelExeccution.Method_Level.Logintest">
+            </class>
+        </classes>
+    </test>
+</suite>

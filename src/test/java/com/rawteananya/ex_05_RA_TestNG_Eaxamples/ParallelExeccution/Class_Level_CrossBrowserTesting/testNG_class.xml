@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel-Methods" parallel="classes" thread-count="2">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Black Panther/Desktop/Pramod Testing/Automation_Projects/ATB13x_API_Automation">
+        <classes>
+            <class name="com.rawteananya.ex_05_RA_TestNG_Eaxamples.ParallelExeccution.Class_Level_CrossBrowserTesting.Chrome_Test"> </class>
+            <class name="com.rawteananya.ex_05_RA_TestNG_Eaxamples.ParallelExeccution.Class_Level_CrossBrowserTesting.Firefox_Test">
+            </class>
+        </classes>
+    </test>
+</suite>
