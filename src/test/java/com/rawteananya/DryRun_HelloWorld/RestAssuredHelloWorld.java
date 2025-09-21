@@ -1,4 +1,4 @@
-package com.rawteananya;
+package com.rawteananya.DryRun_HelloWorld;
 
 import io.restassured.RestAssured;
 
